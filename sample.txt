@@ -1,5 +1,1 @@
-sample file
-Hello
-Ericsson
-Thanks
-Helllo ALLL
+WElcome to jenikins!
